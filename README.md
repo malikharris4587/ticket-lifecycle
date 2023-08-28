@@ -8,7 +8,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolve tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,33 +22,29 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
 - Assignment and Communication
 - Working the Issue
 - Resolution
 
 <h2>Lifecycle Stages</h2>
 
+![Screen Shot 2023-08-28 at 3 54 10 PM](https://github.com/malikharris4587/ticket-lifecycle/assets/143438495/1619ff61-fc84-4620-b196-59744bacfa3e)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Say you have tickets populating from end users you created (Karen and Ken in this example) now its up to you or the Queue Manager to properly code and assign these tickets to the agents/IT Professionals. You can also work tickets yourself. 
 </p>
 <br />
 
+
+![Screen Shot 2023-08-28 at 3 57 25 PM](https://github.com/malikharris4587/ticket-lifecycle/assets/143438495/1d5b27de-131c-49f2-a4f6-785d4697d321)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This ticket I set to SEV-A because this is a business-impacting work order. Depending on the organization, every SLA will be different.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![Screen Shot 2023-08-28 at 3 59 50 PM](https://github.com/malikharris4587/ticket-lifecycle/assets/143438495/d9c26a38-e134-42f9-afbd-ba4bb9431dd6)
+
+Communication is key here. Post replies following the SLA procedures and resolve the tickets when its time. You can change the status of the ticket at the bottom here before you post a reply.
 </p>
 <br />
